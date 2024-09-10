@@ -10,7 +10,7 @@ heroku3
 motor
 pillow
 psutil
-py-tgcalls==0.9.7
+py-tgcalls==2.0.3
 pykeyboard
 https://github.com/KurimuzonAkuma/pyrogram/archive/v2.1.23.zip
 python-dotenv
